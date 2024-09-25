@@ -1,0 +1,17 @@
+{
+  "name": "chat-app-server",
+  "version": "1.0.0",
+  "description": "Basic Node.js project to run a chat app web socket server.",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/server.js"
+  },
+  "keywords": [],
+  "author": "Andrew Kippenhan",
+  "license": "ISC",
+  "dependencies": {
+    "socket.io": "^4.8.0"
+  }
+}
