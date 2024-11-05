@@ -7,7 +7,7 @@ Based on example: https://github.com/gorilla/websocket/tree/main/examples/chat
 ### Run
 Navigate to `chat-app-server-go` directory in your terminal.
 ```
-go build main.go
+go run .\cmd\main.go
 ```
 
 ### Usage (local)
